@@ -1,14 +1,14 @@
-En un lugar de las **Repos**
+# DON QUIJOTE DE LAS REPOS
 
-de cuyo **commit** no quiero acordarme 
+En un lugar de las Repos
 
-no ha mucho **log** que vivía
+de cuyo commit no quiero acordarme 
 
-un hidalgo de los de **head** en **master**,
+no ha mucho log que vivía
 
-**push** antiguo,
+un hidalgo de los de head en master,
 
-**git** flaco y **remote** corredor.
+push antiguo,
 
-
+git flaco y remoto corredor.
 
