@@ -1,12 +1,14 @@
-En un lugar de las Repos
+En un lugar de las **Repos**
 
-de cuyo commit no quiero acordarme 
+de cuyo **commit** no quiero acordarme 
 
-no ha mucho log que vivía
+no ha mucho **log** que vivía
 
-un hidalgo de los de head en master,
+un hidalgo de los de **head** en **master**,
 
-push antiguo,
+**push** antiguo,
 
-git flaco y remoto corredor.
+**git** flaco y **remote** corredor.
+
+
 
